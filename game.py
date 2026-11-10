@@ -1,3 +1,4 @@
+# Brick Breaker - dimodifikasi dengan background custom
 import tkinter as tk
 from PIL import Image, ImageTk
 
